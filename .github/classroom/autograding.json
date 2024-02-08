@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "tasks.test.js",
+      "setup": "npm install",
+      "run": "npm test",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 100
+    }
+  ]
+}
